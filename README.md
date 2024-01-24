@@ -1,3 +1,9 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=000000&repeat=false&random=false&width=435&lines=Hi+there%2C+I'm+Ruslan" alt="Typing SVG" /><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a>
-</h1>
+<h1 align="center">Hi there, I'm Ruslan<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> 🔥 React Developer | 3 years commercial experience | Web designer UX/UI | Web3 Solidiy </h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Flame1800&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
