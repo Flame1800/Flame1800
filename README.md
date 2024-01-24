@@ -7,3 +7,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Flame1800&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flame1800)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flame1800&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Flame1800)](https://github.com/KnlnKS/leetcode-stats)
